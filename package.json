@@ -1,0 +1,24 @@
+{
+  "name": "abdulnabi-cli-todo-app",
+  "version": "1.0.1",
+  "description": "This is a simple To_Do_App Created using TypeScript.",
+  "main": "to_do_app.js",
+  "type": "module",
+  "bin": "to_do_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "To_Do_App",
+    "App",
+    "CLI_To_Do_App"
+  ],
+  "author": "Abdul Nabi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
